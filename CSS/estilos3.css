@@ -1,0 +1,58 @@
+body{
+    font-family: Arial;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-image:url('https://cutewallpaper.org/28/digital-wallpaper-green/abstract-green-digital-background-big-data-visualization-science-background-big-data-complex-with-compounds-lines-plexus-civil--structural-engineer-magazine.jpeg');
+    background-repeat: no-repeat;background-size: cover;
+	background-attachment: fixed;
+	position: relative;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 25px 45px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #06240b;
+    font-weight: bold;
+}
+
+h1{
+    margin-top: 50px;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.resultados{
+	border-collapse: separate;
+    border-spacing: 380px 5px;
+}
+
+.actual{
+    font-weight: bold;
+}
+
+.actual a{
+    background-color: #05941d;
+}
